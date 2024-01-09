@@ -1,3 +1,5 @@
+package java21;
+
 import java.util.List;
 
 public class SequencedCollections {

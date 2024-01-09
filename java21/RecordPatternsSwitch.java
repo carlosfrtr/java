@@ -1,3 +1,5 @@
+package java21;
+
 public class RecordPatternsSwitch {
     public static void main(String[] args) {
         var obj = new User("carlos", "12345", "carlosfrtr@gmail.com");
