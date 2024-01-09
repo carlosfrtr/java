@@ -1,6 +1,10 @@
 # Java
 Java updates study practices
 
+## ⚡ Technologies
+
+![Java21](https://img.shields.io/badge/-Java%2021-007396?style=flat-square&logo=openjdk&logoColor=white)
+
 
 ``` Shell
 javac .\java21\*.java
